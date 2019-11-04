@@ -1,0 +1,22 @@
+Aşağıdaki C programı derlenip çalıştırıldığında ekrana ne yazar?
+Sorunun cevabı aşağıdakilerden biri de olabilir:
+
+a) Sentaks hatası
+b) Derleyiciye bağlı (implementation defined - implementation specified)
+c) Tanımsız davranış (undefined behavior)
+
+/********************    kod   ***************************/
+
+#include <stdio.h>
+
+int main()
+{
+	int a[4] = { 0, 1, 2, 3};
+	int *p = a + 3;
+	++*--p;
+	++*p--;
+	p[2] += p[1];
+
+	for (int i = 0; i < 4; ++i)
+		printf("%d", a[i]);
+}
