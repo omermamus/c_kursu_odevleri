@@ -1,5 +1,7 @@
 Aşağıdaki C programı derlenip çalıştırıldığında ekrana ne yazdırılır?
 
+/************************************ KOD  ***************************/
+
 #include <stdio.h>
 
 #define  NECO    100
@@ -62,6 +64,8 @@ int main()
 #endif 
 
 }
+
+/************************************ KOD  ***************************/
 
 Sorunun yanıtı şu seçeneklerden biri de olabilir:
 Sentaks hatası (derleme zamanı hatası)
