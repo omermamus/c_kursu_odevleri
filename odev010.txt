@@ -5,6 +5,10 @@ necati
 
 yazacak.
 
+Sorunun en az 3 farklı yanıtı olduğunu söylemeliyim. 3 yanıtı da bulmanız gerekiyor.
+
+/************************* KOD ***********************/
+
 #include <stdio.h>
 
 int main()
@@ -17,4 +21,4 @@ int main()
 	return 0;
 }
 
-Sorunun en az 3 farklı yanıtı olduğunu söylemeliyim. 3 yanıtı da bulmanız gerekiyor.
+/************************* KOD ***********************/
