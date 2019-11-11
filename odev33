@@ -1,0 +1,33 @@
+Aşağıdaki C programı derlenip çalıştırıldığında ekran çıktısı ne olur?
+
+/************************ KOD  ******************************/
+#include <stdio.h>
+
+#define  NEC	100
+
+void func(void);
+
+int main()
+{
+	func();
+#ifdef  NEC
+#undef  NEC
+#endif
+
+}
+
+void func(void)
+{
+#if defined NEC
+	printf("NEC = %d\n", NEC);
+#else
+	printf("NEC tanimsiz\n");
+#endif
+}
+
+/************************ KOD  ******************************/
+
+Sorunun yanıtı şu seçeneklerden biri de olabilir:
+Sentaks hatası (derleme zamanı hatası)
+Tanımsız davranış.
+Derleyiciye göre değişir.
