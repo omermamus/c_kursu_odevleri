@@ -4,6 +4,7 @@ Kodda tanımsız bir davranış var mı?
 Program ne yapıyor?
 
 /***********************    kod  ************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
