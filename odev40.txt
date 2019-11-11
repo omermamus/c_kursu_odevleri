@@ -1,4 +1,3 @@
-
 Bu ödev sorusu işlev gösterici dizilerinin (function pointer arrays) kullanımına yönelik:
 Standart ctype.h başlık dosyasında bildirilen standart karakter test işlevlerinin isimleriyle çağrılabildiği bir kod yapısı oluşturun. Standart karakter test işlevleri şunlardır:
 
