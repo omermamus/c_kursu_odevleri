@@ -1,0 +1,16 @@
+Aşağıdaki kodda tanımlanan func isimli işlev ne yapıyor?
+
+
+/********************** kod ****************************/
+
+#include <stdio.h>
+
+void func(int x)
+{
+	if (x) {
+		func(x / 2);
+		putchar('0' + x % 2);
+	}
+}
+
+/********************** kod ****************************/
