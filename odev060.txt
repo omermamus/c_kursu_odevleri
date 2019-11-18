@@ -1,4 +1,4 @@
-Aşağıdaki kodda tanımlanan func isimli işlev ne yapıyor?
+Sizce aşağıdaki kodda tanımlanan func isimli işlev ne yapıyor?
 
 
 /********************** kod ****************************/
