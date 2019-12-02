@@ -2,4 +2,5 @@ Bir tam sayının bir tam sayı kuvvetini hesaplayacak power isimli işlevi özy
 
 int power(int x, int n);
 
-Yazdığınız işlevi tek bir return deyimi olacak şekilde (one-liner) yeniden düzenleyiniz. Yazdığınız işlevi yine kendi yazacağınız kodlar ile test ediniz.
+Yazdığınız işlevi tek bir return deyimi olacak şekilde (one-liner) yeniden düzenleyiniz. 
+Yazdığınız işlevi yine kendi yazacağınız kodlar ile test ediniz.
