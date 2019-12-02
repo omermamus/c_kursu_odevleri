@@ -2,7 +2,6 @@ işaretli int türden bir tamsayının değerini 10'luk sayı sisteminde ekrana 
 
 void riprint(int);
 
-riprint 
 Aşağıdaki kodu test amaçlı kullanabilirsiniz:
 
 /***************************  kod   *************************/
