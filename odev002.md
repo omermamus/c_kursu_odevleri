@@ -31,8 +31,7 @@ int main()
 	printf("%d\n", -x + y + a);
 }
 ```
-
-
+3.
 
 ```
 #include <stdio.h>
@@ -44,7 +43,7 @@ int main()
 	printf("%d\n", printf("%d", printf("%d", ++x)));
 }
 ```
-
+4.
 
 ```
 #include <stdio.h>
@@ -72,7 +71,7 @@ int main()
 }
 ```
 
-
+5.
 
 ```
 #include <stdio.h>
@@ -95,7 +94,7 @@ int main()
 }
 ```
 
-
+6.
 
 ```
 #include <stdio.h>
@@ -119,7 +118,7 @@ int main()
 	printf("%d\n", x);
 }
 ```
-
+7.
 
 ```
 #include <stdio.h>
@@ -135,7 +134,7 @@ int main()
 }
 ```
 
-
+8.
 ```
 #include <stdio.h>
 
@@ -149,8 +148,7 @@ int main()
 		printf("%d", x++);
 }
 ```
------------------------------------------------------------------------------------------------------
-
+9.
 ```
 #include <stdio.h>
 
@@ -170,7 +168,7 @@ int main()
 	printf("%d", x);
 }
 ```
-
+10.
 ```
 #include<stdio.h>
 
@@ -182,5 +180,3 @@ int main()
 	printf("%d\n", ival);
 }
 ```
-
------------------------------------------------------------------------------------------------------
