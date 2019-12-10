@@ -1,10 +1,10 @@
-# Aşağıdaki programların her biri için şu sorulara yanıt vermeye çalışın:
+## Aşağıdaki programların her biri için şu sorulara yanıt vermeye çalışın:
 
 * sentaks hatası var mı?
 * tanımsız davranış *(undefined behavior)* var mı?
 * ekran çıktısı ne olur?
 
-1.
+1. kod
 ```
 #include <stdio.h>
 
@@ -17,7 +17,7 @@ int main()
 	printf("%d\n", (y *= x++, y + x));
 }
 ```
-2.
+2. kod
 ```
 #include <stdio.h>
 
@@ -31,7 +31,7 @@ int main()
 	printf("%f\n", foo(3.));
 }
 ```
-3.
+3. kod
 ```
 #include <stdio.h>
 
@@ -45,7 +45,7 @@ int main()
 	printf("%d\n", !x + !!x + y - !y - !!y);
 }
 ```
-4.
+4. kod
 
 ```
 #include <stdio.h>
