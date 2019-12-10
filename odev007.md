@@ -5,7 +5,7 @@ int is_superprime(int val);
 ```
 
 işlevinin kodunu yazınız.
-+ Süper asal nedir?
+**Süper asal nedir?**
 
 Bu sayılara "asal indeksli asal sayılar" *(prime indexed primes)* da denilmektedir. Tüm asal sayıların *1* değerinden başlayarak indekslendiğini düşünelim:
 ```
