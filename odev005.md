@@ -1,7 +1,7 @@
-##Arkadaş Sayılar *(amicable numbers / friendly numbers)*
+## Arkadaş Sayılar *(amicable numbers / friendly numbers)*
 
-x ve y pozitif tamsayılar olmak üzere, eğer x sayısının çarpanları toplamı y sayısına, ve aynı zamanda y sayısının çarpanları toplamı x sayısına eşit ise, bu sayılar *“arkadaştır”*.
-Örneğin 220 ve 284 arkadaş sayılardır:
+*x* ve *y* pozitif tamsayılar olmak üzere, eğer *x* sayısının çarpanları toplamı *y* sayısına, ve aynı zamanda *y* sayısının çarpanları toplamı *x* sayısına eşit ise, bu sayılar *“arkadaştır”*.
+Örneğin *220* ve *284* arkadaş sayılardır:
 
 ```
 220 => 1 + 2 + 4 + 5 + 10 + 11 + 20 + 22 + 44 + 55 + 110 = 284
