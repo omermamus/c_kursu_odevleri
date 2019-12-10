@@ -13,7 +13,7 @@ int main()
 }
 ```
 
-## yazdığınız kod çalıştırıldığında girilen sayıları ekrana şu formatta yazdırmalı:
+## Yazdığınız kod çalıştırıldığında girilen sayıları ekrana şu formatta yazdırmalı:
 
 ```
 girdi           çıktı
