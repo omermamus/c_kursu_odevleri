@@ -1,4 +1,4 @@
-1.  3 sayıdan en büyüğünü hesaplayan max3 isimli bir fonksiyon tanımlayınız.
+1.  3 sayıdan en büyüğünü hesaplayan *max3* isimli bir fonksiyon tanımlayınız.
 
 2. *main* fonksiyonu içinde standart giriş akımından *3* tamsayı alınız.
 
