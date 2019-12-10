@@ -1,5 +1,5 @@
-Aşağıdaki C programında  yorum satırı bulunan yere bir kod eklemeniz isteniyor:
-
+## Aşağıdaki C programında  yorum satırı bulunan yere bir kod eklemeniz isteniyor:
+```
 #include <stdio.h>
 
 int main()
@@ -11,12 +11,15 @@ int main()
 	/* code  */
 
 }
+```
 
-yazdığınız kod çalıştırıldığında girilen sayıları ekrana şu formatta yazdırmalı:
+## yazdığınız kod çalıştırıldığında girilen sayıları ekrana şu formatta yazdırmalı:
 
+```
 girdi           çıktı
 =====        ============
 30 10 20     10 < 20 < 30
 7 5 7        5 < 7 = 7
 2 2 2        2 = 2 = 2
 9 6 6        6 = 6 < 9
+```
