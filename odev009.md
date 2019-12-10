@@ -1,4 +1,5 @@
 ## Aşağıdaki C programı çalıştırıldığında bu programın çıktısı ne olur?
+
 ```
 #include <stdio.h>
 
@@ -21,4 +22,4 @@ int main()
 
 + Sentaks hatası *(syntax error)*
 + Tanımsız davranış "(undefined behavior)*
-+ Derleyiciye göre değişir. (implementation defined - implementation specified)
++ Derleyiciye göre değişir. *(implementation defined - implementation specified).*
