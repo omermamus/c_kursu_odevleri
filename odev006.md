@@ -10,6 +10,7 @@
 *Collatz* sanısı matematikçilerin tüm çabalarına karşın halen kanıtlanmış değildir.
 
 Kendisine gelen işaretsiz *long long* türden bir tamsayı için bu serideki tüm sayıları (sayının kendisi ve 1 dahil olmak üzere) standart çıkış akımına yazdıran
+
 ```
 unsigned int display_collatz(unsigned long long val);
 ```
