@@ -10,7 +10,7 @@ int is_harshad(int val);
 
 #### Harshad sayısı nedir?
 
-Eğlence matematiğinde `Harshad Sayı (veya Niven Sayı)` rakamları toplamına tam bölünebilen tamsayılara denir. Harshad özelliğini sağlayan sayma tabanına n dersek sayılar n-Harshad (ya da n-Niven) olarak da söylenirler. Hindistanlı matematikçi `D. R. Kaprekar` tarafından tanımlanmışlardır. `"Harshad"` kelimesi Sanskritçe harṣa (eğlence) + da (vermek), kelimelerinin bileşiminden *"eğlenceli"* anlamındadır. “Niven Sayı” tabiri ise Ivan M. Niven tarafından 1977‘de sayma teorisi ile ilgili yayınlanmış olan makaleye dayandırılmıştır.
+Eğlence matematiğinde `Harshad Sayı (veya Niven Sayı)` rakamları toplamına tam bölünebilen tamsayılara denir. Harshad özelliğini sağlayan sayma tabanına n dersek sayılar `n-Harshad (ya da n-Niven)` olarak da söylenirler. Hindistanlı matematikçi `D. R. Kaprekar` tarafından tanımlanmışlardır. `"Harshad"` kelimesi Sanskritçe harṣa (eğlence) + da (vermek), kelimelerinin bileşiminden *"eğlenceli"* anlamındadır. `“Niven Sayı”` tabiri ise `Ivan M. Niven` tarafından 1977 yılında sayma teorisi ile ilgili yayınlanmış olan makaleye dayandırılmıştır.
 
 **Örnekler:**
 18 sayısı 10 tabanında (sayma sisteminde) `Harshad` sayıdır. Çünkü rakamları olan 1 ve 8‘in toplamı 9‘dur (1+8=9), ve 18 sayısı 9‘a tam bölünür. (18/9=2 ve 2 bir tamsayıdır)
@@ -24,4 +24,4 @@ Eğlence matematiğinde `Harshad Sayı (veya Niven Sayı)` rakamları toplamına
 
 `1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 18, 20, 21, 24, 27, 30, 36, 40, 42, 45, 48, 50, 54, 60, 63, 70, 72, 80, 81, 84, 90, 100, 102, 108, 110, 111, 112, 114, 117, 120, 126, 132, 133, 135, 140, 144, 150, 152, 153, 156, 162, 171, 180, 190, 192, 195, 198, 200...`
 
-Kaynak : wikipedia
+**`Kaynak : wikipedia`**
