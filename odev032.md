@@ -1,7 +1,6 @@
-Aşağıdaki C programı derlenip çalıştırıldığında ekrana ne yazdırılır?
+#### Aşağıdaki C programı derlenip çalıştırıldığında ekrana ne yazdırılır?
 
-/************************************ KOD  ***************************/
-
+```
 #include <stdio.h>
 
 #define  NECO    100
@@ -64,10 +63,9 @@ int main()
 #endif 
 
 }
+```
 
-/************************************ KOD  ***************************/
-
-Sorunun yanıtı şu seçeneklerden biri de olabilir:
-Sentaks hatası (derleme zamanı hatası)
-Tanımsız davranış.
-Derleyiciye göre değişir.
+**Sorunun yanıtı şu seçeneklerden biri de olabilir:**
++ Sentaks hatası *(syntax error)*
++ Tanımsız davranış *(undefined behavior)*
++ Derleyiciye göre değişir.* (implementation defined/specified)*
