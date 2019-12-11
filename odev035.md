@@ -1,0 +1,18 @@
+#### Standart `rand` işlevine çağrı yaparak değeri rastgele olarak aşağıdaki sayılardan biri olacak bir ifade yazınız.
+
+`7 11 15 19`
+
+#### Yazdığınız ifadeyi aşağıdaki kodla test edebilirsiniz:
+
+```
+#include <stdio.h>
+
+int main()
+{
+	//EXP yerine ifadenizi yaziniz
+	for (;;) {
+		printf("%d\n", EXP);
+		getchar();
+	}
+}
+```
