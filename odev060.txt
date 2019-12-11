@@ -1,8 +1,6 @@
-Sizce aşağıdaki kodda tanımlanan func isimli işlev ne yapıyor?
+#### Sizce aşağıdaki kodda tanımlanan *func* isimli işlev ne yapıyor?
 
-
-/********************** kod ****************************/
-
+```
 #include <stdio.h>
 
 void func(int x > 1)
@@ -11,5 +9,4 @@ void func(int x > 1)
 		func(x / 2);
 	putchar('0' + x % 2);	
 }
-
-/********************** kod ****************************/
+```
