@@ -1,4 +1,4 @@
-#### Aşağıda belirtilen işlevsel makroları (functional - function-like macros) tanımlayınız:
+#### Aşağıda belirtilen işlevsel makroları `(functional - function-like macros)` tanımlayınız:
 
 + standart *isupper* işlevinin yerine geçecek *is_upper* isimli makro
 
