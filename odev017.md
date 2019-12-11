@@ -1,24 +1,24 @@
-#### Kendisine gönderilen bir tamsayının 10‘luk sayı sisteminde Harshad sayısı olup olmadığını test eden is_harshad isimli işlevi tanımlayınız.
+#### Kendisine gönderilen bir tamsayının 10‘luk sayı sisteminde Harshad sayısı olup olmadığını test eden *`is_harshad*` isimli işlevi tanımlayınız.
 
 ```
 int is_harshad(int val);
 ```
 
-İşleve gönderilen değer 10’luk sayı sisteminde bir Harshad sayısı ise işlev sıfır dışı bir değere değil ise işlev sıfır değerine geri döner.
+İşleve gönderilen değer 10’luk sayı sisteminde bir `Harshad` sayısı ise işlev sıfır dışı bir değere değil ise işlev sıfır değerine geri döner.
 
 **Tanımladığınız işlevi kullanarak ilk 100 Harshad sayısını standart çıkış akımına yazdıran bir C programı yazınız.**
 
 #### Harshad sayısı nedir?
 
-Eğlence matematiğinde `Harshad Sayı (veya Niven Sayı)` rakamları toplamına tam bölünebilen tamsayılara denir. Harshad özelliğini sağlayan sayma tabanına n dersek sayılar n-Harshad (ya da n-Niven) olarak da söylenirler. Hindistanlı matematikçi D. R. Kaprekar tarafından tanımlanmışlardır. “Harshad” kelimesi Sanskritçe harṣa (eğlence) + da (vermek), kelimelerinin bileşiminden *"eğlenceli"* anlamındadır. “Niven Sayı” tabiri ise Ivan M. Niven tarafından 1977‘de sayma teorisi ile ilgili yayınlanmış olan makaleye dayandırılmıştır.
+Eğlence matematiğinde `Harshad Sayı (veya Niven Sayı)` rakamları toplamına tam bölünebilen tamsayılara denir. Harshad özelliğini sağlayan sayma tabanına n dersek sayılar n-Harshad (ya da n-Niven) olarak da söylenirler. Hindistanlı matematikçi `D. R. Kaprekar` tarafından tanımlanmışlardır. `"Harshad"` kelimesi Sanskritçe harṣa (eğlence) + da (vermek), kelimelerinin bileşiminden *"eğlenceli"* anlamındadır. “Niven Sayı” tabiri ise Ivan M. Niven tarafından 1977‘de sayma teorisi ile ilgili yayınlanmış olan makaleye dayandırılmıştır.
 
-Örnekler:
-18 sayısı 10 tabanında (sayma sisteminde) Harshard sayıdır. Çünkü rakamları olan 1 ve 8‘in toplamı 9‘dur (1+8=9), ve 18 sayısı 9‘a tam bölünür. (18/9=2 ve 2 bir tamsayıdır)
+**Örnekler:**
+18 sayısı 10 tabanında (sayma sisteminde) `Harshad` sayıdır. Çünkü rakamları olan 1 ve 8‘in toplamı 9‘dur (1+8=9), ve 18 sayısı 9‘a tam bölünür. (18/9=2 ve 2 bir tamsayıdır)
 
-`1729` sayısı `10`'luk sayma sisteminde bir Harshard sayıdır çünkü rakamları toplamı olan `19`‘a tam bölünür 
+`1729` sayısı `10`'luk sayma sisteminde bir `Harshad` sayıdır çünkü rakamları toplamı olan `19`‘a tam bölünür 
 `1729 = 19 * 91`
 
-19 sayısı 10'luk sayma sisteminde bir Harshard sayı değildir, çünkü rakamları toplamı 10‘dur (1+9=10) ve (19/10=1.9 ve 1.9 tam sayı olmadığından) 19 10‘a tam bölünmez.
+`19` sayısı 10'luk sayma sisteminde bir `Harshad` sayı değildir, çünkü rakamları toplamı 10‘dur (1+9=10) ve (19/10=1.9 ve 1.9 tam sayı olmadığından) `19 10`‘a tam bölünmez.
 
 10'luk sayma sisteminde `Harshard` sayıları dizisi şöyledir:
 
