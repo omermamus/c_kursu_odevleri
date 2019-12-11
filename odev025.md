@@ -29,4 +29,5 @@ int main()
 			printf("%d ", *p2++);
 
 }
+
 ```
