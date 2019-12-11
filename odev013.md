@@ -1,4 +1,4 @@
-Sayma sayılarında *10*’luk sayı sisteminde yalnızca 4 tane `*factorion*` sayı var. İyi ama factorion sayı ne demek? Basamaklarının faktöriyelleri toplamı kendisine eşit olan sayıya *factorion* deniyor. Örneğin abc tamsayısı eğer bir *factorion* ise
+Sayma sayılarında *10*’luk sayı sisteminde yalnızca 4 tane *`factorion`* sayı var. İyi ama factorion sayı ne demek? Basamaklarının faktöriyelleri toplamı kendisine eşit olan sayıya *factorion* deniyor. Örneğin abc tamsayısı eğer bir *factorion* ise
 
 ```
 abc = a! + b! + c!
