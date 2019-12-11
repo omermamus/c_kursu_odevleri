@@ -1,5 +1,6 @@
-Küçükten büyüğe sıralanmış, her öğesi birbirinden farklı (distinct) olan negatif bir tamsayı içermeyen bir tamsayı dizisi var. Bu dizide yer almayan en küçük tamsayıyı bulunuz:
-Örnekler:
+#### Küçükten büyüğe sıralanmış, her öğesi birbirinden farklı *(distinct)* olan negatif bir tamsayı içermeyen bir tamsayı dizisi var. Bu dizide yer almayan en küçük tamsayıyı bulunuz. Örnekler:
+
+```
 girdi : 0 1 2 3 5 8 12
 çıktı : 4
 
@@ -8,11 +9,12 @@ girdi : 1 3 4 5 6 7 20
 
 girdi : 0 1 2 3 4
 çıktı : 5
+```
 
-Aşağıdaki test kodunu kullanabilirsiniz:
+#### Aşağıdaki test kodunu kullanabilirsiniz:
 
-/*********************** KOD ************************************/
 
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -46,5 +48,4 @@ int main()
 
 	//kodu buraya yazin
 }
-
-/*********************** KOD ************************************/
+```
