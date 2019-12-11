@@ -1,11 +1,14 @@
-Kendisine gönderien tamsayıdan daha küçük ilk asal sayıyı bulan closest_prime isimli işlevi tanımlayınız:
+#### Kendisine gönderien tamsayıdan daha küçük ilk asal sayıyı bulan closest_prime isimli işlevi tanımlayınız:
 
+```
 int closest_prime(int value);
+```
 
-işlevin geri dönüş değeri value değerinden küçük en büyük asal sayı olacaktır.
-Eğer böyle bir asal sayı yok ise işlev hata değeri olarak -1 değerini döndürür.
-Tanımladığınız işlevi aşağıdaki kodla test edebilirsiniz:
++ İşlevin geri dönüş değeri value değerinden küçük en büyük asal sayı olacaktır.
++ Eğer böyle bir asal sayı yok ise işlev hata değeri olarak `-1` değerini döndürür.
++ Tanımladığınız işlevi aşağıdaki kodla test edebilirsiniz:
 
+```
 #include <stdio.h>
 
 int closest_prime();
@@ -27,3 +30,4 @@ int main()
 
 	return 0;
 }
+```
