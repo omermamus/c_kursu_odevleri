@@ -1,8 +1,7 @@
-partition işlemi bir veri yapısını, bir koşulu sağlayanlar ve sağlamayanlar olarak ikiye ayırma işlemidir.
-Bu iş O(n) karmaşıklığında bir algoritma ile gerçekleştirilebilir. Öğeleri int türden olan bir diziyi tekler başta çiftler sonda olmak üzere  ikiye ayırınız:
+#### `Partisyon` (bölümleme) işlemi bir veri yapısını, bir koşulu sağlayanlar ve sağlamayanlar olarak ikiye ayırma işlemidir.
+Bu iş *O(n)* karmaşıklığında bir algoritma ile gerçekleştirilebilir. Öğeleri *int* türden olan bir diziyi tekler başta çiftler sonda olmak üzere ikiye ayırınız:
 
-/*******************    kod  *****************************/
-
+```
 #include <stdio.h>
 
 #define     SIZE  100
@@ -24,5 +23,4 @@ int main()
 		printf("%3d ", a[i]);
 	}
 }
-
-/*******************    kod  *****************************/
+```
