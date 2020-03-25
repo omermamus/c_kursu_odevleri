@@ -1,13 +1,13 @@
-## Bir tamsayının süper asal *(super prime)* olup olmadığını test eden
+#### Bir tamsayının süper asal *(super prime)* olup olmadığını test eden is_superprime isimli işlevin kodunu yazınız:
 
 ```
 int is_superprime(int val);
 ```
 
-işlevinin kodunu yazınız.
 **Süper asal nedir?**
 
 Bu sayılara "asal indeksli asal sayılar" *(prime indexed primes)* da denilmektedir. Tüm asal sayıların *1* değerinden başlayarak indekslendiğini düşünelim:
+
 ```
 1. asal sayı 2
 2. asal sayı 3
