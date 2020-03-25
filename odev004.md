@@ -1,4 +1,4 @@
-## Aşağıdaki C programında  yorum satırı bulunan yere bir kod eklemeniz isteniyor:
+### Aşağıdaki C programında yorum satırı bulunan yere bir kod eklemeniz isteniyor:
 ```
 #include <stdio.h>
 
@@ -13,7 +13,7 @@ int main()
 }
 ```
 
-## Yazdığınız kod çalıştırıldığında girilen sayıları ekrana şu formatta yazdırmalı:
+#### Yazdığınız kod çalıştırıldığında girilen sayıları ekrana şu formatta yazdırmalı:
 
 ```
 girdi           çıktı
