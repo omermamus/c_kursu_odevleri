@@ -1,12 +1,12 @@
-* _3_ sayıdan en büyüğünü hesaplayan *max3* isimli bir fonksiyon tanımlayınız.
+* _3_ sayıdan en büyüğünü hesaplayan _max3_ isimli bir fonksiyon tanımlayınız.
 
-* _main_ fonksiyonu içinde standart giriş akımından *3* tamsayı alınız.
+* _main_ fonksiyonu içinde standart giriş akımından _3_ tamsayı alınız.
 
-* _max3_ isimli fonksiyona çağrı yaparak alınan *3* tamsayıdan en büyüğünü standart çıkış akımına *(ekrana)* yazdırınız:
+* _max3_ isimli fonksiyona çağrı yaparak alınan _3_ tamsayıdan en büyüğünü standart çıkış akımına *(ekrana)* yazdırınız:
 
 * Aynı programı bu kez gerçek sayılar için yazınız.
 
-## Örnek ekran çıktısı (1)
+### Örnek ekran çıktısı (1)
 
 ```
 uc tamsayi girin:
@@ -15,7 +15,7 @@ uc tamsayi girin:
 12, 56 ve 8 sayilarinin en buyugu 56
 ```
 
-## Örnek ekran çıktısı (2)
+### Örnek ekran çıktısı (2)
 
 ```
 uc gercek sayi girin:
