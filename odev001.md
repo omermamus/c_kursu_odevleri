@@ -2,7 +2,7 @@
 
 * _main_ fonksiyonu içinde standart giriş akımından _3_ tamsayı alınız.
 
-* _max3_ isimli fonksiyona çağrı yaparak alınan _3_ tamsayıdan en büyüğünü standart çıkış akımına *(ekrana)* yazdırınız:
+* _max3_ isimli fonksiyona çağrı yaparak alınan _3_ tamsayıdan en büyüğünü standart çıkış akımına _(ekrana)_ yazdırınız:
 
 * Aynı programı bu kez gerçek sayılar için yazınız.
 
