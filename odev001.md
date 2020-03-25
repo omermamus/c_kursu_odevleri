@@ -1,10 +1,10 @@
-1.  3 sayıdan en büyüğünü hesaplayan *max3* isimli bir fonksiyon tanımlayınız.
+* _3_ sayıdan en büyüğünü hesaplayan *max3* isimli bir fonksiyon tanımlayınız.
 
-2. *main* fonksiyonu içinde standart giriş akımından *3* tamsayı alınız.
+* _main_ fonksiyonu içinde standart giriş akımından *3* tamsayı alınız.
 
-3. *max3* isimli fonksiyona çağrı yaparak alınan *3* tamsayıdan en büyüğünü standart çıkış akımına *(ekrana)* yazdırınız:
+* _max3_ isimli fonksiyona çağrı yaparak alınan *3* tamsayıdan en büyüğünü standart çıkış akımına *(ekrana)* yazdırınız:
 
-4. Aynı programı bu kez gerçek sayılar için yazınız.
+* Aynı programı bu kez gerçek sayılar için yazınız.
 
 ## Örnek ekran çıktısı (1)
 
