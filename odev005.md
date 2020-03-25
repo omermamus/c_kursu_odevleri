@@ -1,4 +1,4 @@
-## Arkadaş Sayılar *(amicable numbers / friendly numbers)*
+#### Arkadaş Sayılar *(amicable numbers / friendly numbers)*
 
 *x* ve *y* pozitif tamsayılar olmak üzere, eğer *x* sayısının çarpanları toplamı *y* sayısına, ve aynı zamanda *y* sayısının çarpanları toplamı *x* sayısına eşit ise, bu sayılar *“arkadaştır”*.
 Örneğin *220* ve *284* arkadaş sayılardır:
@@ -7,7 +7,7 @@
 220 => 1 + 2 + 4 + 5 + 10 + 11 + 20 + 22 + 44 + 55 + 110 = 284
 284 => 1 + 2 + 4 + 71 + 142 = 220
 ```
-Kendisine gönderilen iki tamsayının arkadaş olup olmadıklarını sınayan, are_friends isimli işlevi tanımlayın:
+Kendisine gönderilen iki tamsayının arkadaş olup olmadıklarını sınayan, __are_friends__ isimli işlevi tanımlayın:
 ```
 int are_friends(int number1, int number2);
 ```
