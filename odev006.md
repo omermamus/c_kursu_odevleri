@@ -1,4 +1,4 @@
-## Collatz sanısı (Collatz conjecture)
+#### Collatz sanısı (Collatz conjecture)
 
 1937 yılında *Lothar Collatz*  sıfırdan büyük her tamsayı için aşağıdaki problemi ortaya koydu:
 
@@ -7,9 +7,9 @@
 *n* çift ise yeni *n* değeri olarak *n / 2* alınıyor.
 *n* tek ise yeni *n* değeri olarak *3 * n + 1* değeri alınıyor.
 
-*Collatz* sanısı matematikçilerin tüm çabalarına karşın halen kanıtlanmış değildir.
+__Collatz__ sanısı matematikçilerin tüm çabalarına karşın halen kanıtlanmış değildir.
 
-Kendisine gelen işaretsiz *long long* türden bir tamsayı için bu serideki tüm sayıları (sayının kendisi ve 1 dahil olmak üzere) standart çıkış akımına yazdıran
+Kendisine gelen işaretsiz _long long_ türden bir tamsayı için bu serideki tüm sayıları (sayının kendisi ve 1 dahil olmak üzere) standart çıkış akımına yazdıran
 
 ```
 unsigned int display_collatz(unsigned long long val);
@@ -18,7 +18,7 @@ işlevini kodlayın.
 
 İşlevin geri dönüş değeri standart çıkış akımına kaç sayı yazıldığı bilgisidir.
 
-Aşağıda *72543* tamsayısı için oluşturulan serinin *188* terimi yer alıyor:
+Aşağıda _72543_ tamsayısı için oluşturulan serinin _188_ terimi yer alıyor:
 ```
 72543 217630 108815 326446 163223 489670 244835 734506 367253 1101760 
 550880 275440 137720 68860 34430 17215 51646 25823 77470 38735 116206 
