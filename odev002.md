@@ -1,6 +1,7 @@
-# Aşağıdaki programların ekran çıktıları ne olur? 
+### Aşağıdaki programların ekran çıktıları ne olur? 
 
-1.
+__1.program__
+
 ```
 #include <stdio.h>
  
@@ -17,7 +18,8 @@ int main()
 	return 0;
 }
 ```
-2.
+__2.program__
+
 ```
 #include <stdio.h>
 
@@ -31,7 +33,7 @@ int main()
 	printf("%d\n", -x + y + a);
 }
 ```
-3.
+__3.program__
 
 ```
 #include <stdio.h>
@@ -43,7 +45,8 @@ int main()
 	printf("%d\n", printf("%d", printf("%d", ++x)));
 }
 ```
-4.
+
+__4.program__
 
 ```
 #include <stdio.h>
@@ -71,7 +74,7 @@ int main()
 }
 ```
 
-5.
+__5.program__
 
 ```
 #include <stdio.h>
@@ -94,7 +97,7 @@ int main()
 }
 ```
 
-6.
+__6.program__
 
 ```
 #include <stdio.h>
@@ -118,7 +121,7 @@ int main()
 	printf("%d\n", x);
 }
 ```
-7.
+__7.program__
 
 ```
 #include <stdio.h>
@@ -134,7 +137,7 @@ int main()
 }
 ```
 
-8.
+__8.program__
 ```
 #include <stdio.h>
 
@@ -148,7 +151,8 @@ int main()
 		printf("%d", x++);
 }
 ```
-9.
+
+__9.program__
 ```
 #include <stdio.h>
 
@@ -168,7 +172,8 @@ int main()
 	printf("%d", x);
 }
 ```
-10.
+
+__10.program__
 ```
 #include<stdio.h>
 
