@@ -1,4 +1,4 @@
-### işaretli ikilik sayı sisteminde _(signed binary system)_
+### İşaretli ikilik sayı sisteminde _(signed binary system)_
  
 * 1 byte'lık alanda yazılabilecek en küçük tamsayı nedir? 
 * 1 byte'lık alanda yazılabilecek en büyük tamsayı nedir?
