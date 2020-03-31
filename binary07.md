@@ -1,8 +1,8 @@
 ### işaretsiz ikilik sayı sistemi için ağaıdaki cümlelerde işaretli yerleri doldurunuz:
 
-* 1 byte'lık alanda ifade edilebilecek en büyük tamsayı \___________  değeridir.
-* 16 bitlik bir sayının en yüksek anlamlı biti _(most significant bit)_ sayının \___________ bitidir.
-* 8 bitlik bir sayının en düşük anlamlı biti _(lest significant bit)_ sayının \___________ bitidir.
-* Bir sayının yalnızca tek bir biti ise o sayı 2'nin  \___________.
-* 15 sayısının 1'e tümleyeni _(one's complement)_  \___________ değeridir.
-* Bir tamsayının 0.biti 1 ise o sayı \___________.
+* _1 byte_'lık alanda ifade edilebilecek en büyük tamsayı \___________  değeridir.
+* _16_ bitlik bir sayının en yüksek anlamlı biti _(most significant bit)_ sayının \___________ bitidir.
+* _8_ bitlik bir sayının en düşük anlamlı biti _(lest significant bit)_ sayının \___________ bitidir.
+* Bir sayının yalnızca tek bir biti ise o sayı _2_'nin  \___________.
+* _15_ sayısının _1_'e tümleyeni _(one's complement)_  \___________ değeridir.
+* Bir tamsayının _0_.biti _1_ ise o sayı \___________.
