@@ -1,4 +1,4 @@
-### işaretsiz ikilik sayı sistemi için ağaıdaki cümlelerde işaretli yerleri doldurunuz:
+### İşaretsiz ikilik sayı sistemi için aşağıdaki cümlelerde işaretli yerleri doldurunuz:
 
 * _1 byte_'lık alanda ifade edilebilecek en büyük tamsayı \___________  değeridir.
 * _16_ bitlik bir sayının en yüksek anlamlı biti _(most significant bit)_ sayının \___________ bitidir.
