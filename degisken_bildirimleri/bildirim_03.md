@@ -4,3 +4,5 @@
 + Tam sayı ve gerçek sayı türlerinden statik ömürlü nesneler ilk değer verilmeden tanımlansalar dahi hayata _0_ değeri ile başlarlar.
 + _long long_ türü en az _4 byte_ olmak zorundadır.
 + _char_ türünün işaretli ya da işaretsiz olması derleyiciye bağlıdır _(implementation defined)_
++ işaretli tamsayı türlerinde taşma tanımsız davranıştır _(undefined behavior)_.
++ işaretsiz tamsayı türlerinde taşma tanımsız davranıştır _(undefined behavior)_.
