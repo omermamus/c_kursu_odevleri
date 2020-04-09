@@ -7,3 +7,5 @@
 + işaretli tamsayı türlerinde taşma tanımsız davranıştır _(undefined behavior)_.
 + işaretsiz tamsayı türlerinde taşma tanımsız davranıştır _(undefined behavior)_.
 + ```int x;``` biçiminde bildirilen x değişkeni işaretli tamsayı türündendir.
++ _long_ türünden bir değişken _int_ türünden bir değişkene göre daha büyük tam sayıları tutabilir.
+
