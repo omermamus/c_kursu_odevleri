@@ -1,4 +1,4 @@
-#### Bir tamsayı dizisindeki eşsiz `(unique)` olan değerleri standart çıkış akımına yazdıracak bir fonksiyon tanımlayınız:
+#### Bir tamsayı dizisindeki eşsiz _(unique)_ olan değerleri standart çıkış akımına yazdıracak bir fonksiyon tanımlayınız:
 
 ```
 void display_unique(const int *p, size_t size);
