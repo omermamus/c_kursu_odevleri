@@ -1,4 +1,4 @@
-İlk kez `Edsger Dijkstra` tarafından sorulan bu algoritmaya 3 renkten oluşması nedeniyle `Hollanda Bayrağı Algoritması` deniyor. Yalnızca 0, 1, 2 değerlerinden oluşan bir diziniz var:
+İlk kez __Edsger Dijkstra__ tarafından sorulan bu algoritmaya 3 renkten oluşması nedeniyle `Hollanda Bayrağı Algoritması` deniyor. Yalnızca 0, 1, 2 değerlerinden oluşan bir diziniz var:
 
 ```
 int a[] = {1, 2, 2, 0, 1, 0, 1, 0, 0, 1, 1, 2, 1, 0, 1, 2, 0, 0, 1, 0};
