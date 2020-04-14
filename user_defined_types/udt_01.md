@@ -9,42 +9,26 @@ Bu işlev bir _Duration_ nesnesinin değerini şu formatta standart çıkış ak
 3 gün 21 saat 34 dakika 40 saniye
 ```
 
-get_day
-1
-get_day
+__get_day__</br>
 Bu işlev tutulan süreye ilişkin gün verisini geri dönüş değeri ile kendisini çağıran koda aktarır.
 
-get_hour
-1
-get_hour
+__get_hour__</br>
 Bu işlev tutulan süreye ilişkin saat verisini geri dönüş değeri ile kendisini çağıran koda aktarır.
 
-get_minute
-1
-get_minute
+get_minute</br>
 Bu işlev tutulan süreye ilişkin dakika verisini geri dönüş değeri ile kendisini çağıran koda aktarır.
 
-get_second
-1
-get_second
+__get_second__</br>
 Bu işlev tutulan süreye ilişkin saniye verisini geri dönüş değeri ile kendisini çağıran koda aktarır.
 
-get_sum
-1
-get_sum
+__get_sum__ </br>
 Bu işlev iki sürenin toplamını hesaplayarak kendisini çağıran koda aktarır.
 
-get_difference
-1
-get_difference
-Bu işlev iki süre arasındaki farkı “saniye” olarak geri dönüş değeri ile kendisini çağıran koda aktarır.
+__get_difference__ </br>
+Bu işlev iki süre arasındaki farkı _“saniye”_ olarak geri dönüş değeri ile kendisini çağıran koda aktarır.
 
-duration_to_second
-1
-duration_to_second
+__duration_to_second__ </br>
 Bu işlev bir süre değerini saniyeye dönüştürerek geri dönüş değeri ile kendisini çağıran koda aktarır.
 
-duration_to_string
-1
-duration_to_string
+__duration_to_string__</br>
 Bu işlev bir süre değerini yukarıda belirtilen formatta bir yazıya dönüştürerek kendisini çağıran koda aktarır.
