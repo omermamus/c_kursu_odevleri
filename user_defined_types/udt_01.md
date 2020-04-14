@@ -15,7 +15,7 @@ Bu işlev tutulan süreye ilişkin gün verisini geri dönüş değeri ile kendi
 __get_hour__</br>
 Bu işlev tutulan süreye ilişkin saat verisini geri dönüş değeri ile kendisini çağıran koda aktarır.
 
-get_minute</br>
+__get_minute__</br>
 Bu işlev tutulan süreye ilişkin dakika verisini geri dönüş değeri ile kendisini çağıran koda aktarır.
 
 __get_second__</br>
