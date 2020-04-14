@@ -1,4 +1,4 @@
-### Aşağıdaki cümlelerin doğru ya da yanlış olduğunu yazınız:
+#### Aşağıdaki cümlelerin doğru ya da yanlış olduğunu yazınız:
 
 + Otomatik ömürlü nesnelerin çöp değerleri _(garbage value)_ ile kullanılması tanımsız davranıştır.
 + Tam sayı ve gerçek sayı türlerinden statik ömürlü nesneler ilk değer verilmeden tanımlansalar dahi hayata _0_ değeri ile başlarlar.
