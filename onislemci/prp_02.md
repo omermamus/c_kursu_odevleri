@@ -18,6 +18,6 @@
 is_triangle(a, b, c)
 ````
 ifadesinin değeri
-	+ eğer `a b c` kenar uzunlukları geçerli bir üçgen oluşturuyor ise *1*
-	+ eğer `a b c` kenar uzunlukları geçerli bir üçgen oluşturmuyor *0* ise olmalı.
++ eğer `a b c` kenar uzunlukları geçerli bir üçgen oluşturuyor ise _1_
++ eğer `a b c` kenar uzunlukları geçerli bir üçgen oluşturmuyor _0_ ise olmalı.
 	
