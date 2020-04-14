@@ -1,9 +1,9 @@
 #### Aşağıdaki C programı çalıştırıldığında bu programın çıktısı ne olur?
 
 **Sorunun yanıtı şu seçeneklerden biri de olabilir:**
-+ Sentaks hatası *(syntax error)*
-+ Tanımsız davranış *(undefined behavior)*
-+ Derleyiciye göre değişir. *(implementation defined/specified)*
++ Sentaks hatası _(syntax error)_
++ Tanımsız davranış _(undefined behavior)_
++ Derleyiciye göre değişir. _(implementation defined/specified)_
 
 
 ```
