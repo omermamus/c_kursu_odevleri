@@ -1,4 +1,4 @@
-### Aşağıdaki sayıların 2'ye tümleyenlerini _(two's complement)_ yazınız:
+#### Aşağıdaki sayıların 2'ye tümleyenlerini _(two's complement)_ yazınız:
 
 * 1001 0000
 * 0000 0001
