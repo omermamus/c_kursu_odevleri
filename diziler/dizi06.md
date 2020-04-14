@@ -1,4 +1,4 @@
-#### *n* elemanlı bir dizi var. Bu dizide *1 – n* arasında tüm değerler yer alıyor. Ancak bir değerden *2* tane var. Yinelenen değeri bulan bir C kodu yazınız:
+#### _n_ elemanlı bir dizi var. Bu dizide *1 – n* arasında tüm değerler yer alıyor. Ancak bir değerden *2* tane var. Yinelenen değeri bulan bir C kodu yazınız:
 
 Örnek:
 
@@ -9,7 +9,7 @@ Yinelenen değer 8
 ```
 
 
-#### Yazdığınız kodu aşağıdakikod ile test edebilirsiniz:
+#### Yazdığınız kodu aşağıdaki kod ile test edebilirsiniz:
 
 ```
 #include <stdio.h>
