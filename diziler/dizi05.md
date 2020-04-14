@@ -1,4 +1,4 @@
-#### Küçükten büyüğe sıralanmış, her öğesi birbirinden farklı *(distinct)* olan negatif bir tamsayı içermeyen bir tamsayı dizisi var. Bu dizide yer almayan en küçük tamsayıyı bulunuz. Örnekler:
+#### Küçükten büyüğe sıralanmış, her öğesi birbirinden farklı _(distinct)_ olan negatif bir tamsayı içermeyen bir tamsayı dizisi var. Bu dizide yer almayan en küçük tamsayıyı bulunuz. Örnekler:
 
 ```
 girdi : 0 1 2 3 5 8 12
