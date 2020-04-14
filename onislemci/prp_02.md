@@ -13,7 +13,11 @@
 	+ `val >= high ise high`
 	+ `aksi halde val olmalı`
 
-+ `is_triangle` isimli makro: is_triangle(a, b, c) ifadesinin değeri
++ _is_triangle_ isimli makro: </br>
+```
+is_triangle(a, b, c)
+````
+ifadesinin değeri
 	+ eğer `a b c` kenar uzunlukları geçerli bir üçgen oluşturuyor ise *1*
 	+ eğer `a b c` kenar uzunlukları geçerli bir üçgen oluşturmuyor *0* ise olmalı.
 	
