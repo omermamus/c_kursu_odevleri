@@ -3,7 +3,7 @@ Bu nitelikte birden fazla öğe varsa dizide ilk geçen değer bulunacak. Ekran 
 
 `4 7 6 7 3 2 9 7 4 9 7 1`
 
-**mod = `7` ve `4` kez tekrar ediyor**
+**mod = _7_ ve _4_ kez tekrar ediyor**
 
 `3 4 8 4 9 4 6 7 3 2 2 2` 
 
