@@ -29,4 +29,4 @@ void func(void)
 **Sorunun yanıtı şu seçeneklerden biri de olabilir:**
 + Sentaks hatası *(syntax error)*
 + Tanımsız davranış *(undefined behavior)*
-+ Derleyiciye göre değişir.* (implementation defined/specified)*
++ Derleyiciye göre değişir. _(implementation defined/specified)_
