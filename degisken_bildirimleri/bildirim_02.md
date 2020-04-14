@@ -1,5 +1,6 @@
 ### Aşağıdaki bildirimlerden geçersiz olanları işaretleyiniz: 
 
+
 ```
 int main()
 {
