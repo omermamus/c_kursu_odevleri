@@ -27,7 +27,6 @@ int main()
 	else
 		while (p2 <= p1)
 			printf("%d ", *p2++);
-
 }
 
 ```
