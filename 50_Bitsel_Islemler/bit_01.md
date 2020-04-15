@@ -10,8 +10,6 @@ int main()
 	int x = a & a + a ^ a + a << a;
 
 	printf("%d\n", x);
-	
-	return 0;
 }
 ```
 + Sorunun yanıtı şu seçeneklerden biri de olabilir:
