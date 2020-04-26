@@ -14,7 +14,7 @@ Bu nitelikte birden fazla öğe varsa dizide ilk geçen değer bulunacak. Ekran 
 ```
 #include <stdio.h>
 #include <stdlib.h>
-#include "nutility.h"
+#include <time.h>
 
 #define     SIZE      1000
 
