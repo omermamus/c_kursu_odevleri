@@ -1,0 +1,24 @@
+Aşağıdaki kodda SIZE tane öğeye sahip bir tamsayı dizisine rastgele değerler veriliyor:
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+#define			SIZE		20
+
+int main()
+{
+	int a[SIZE];
+
+	srand((unsigned)time(0));
+	for (int i = 0; i < 20; ++i) {
+		a[i] = rand() % 20 + 1;
+		printf("%d ", a[i]);
+	}
+	printf("\n");
+}
+```
+
+Bu dizinin elemanlarının değerlerini kullanarak bir histogram oluşturacak C programını yazmanız isteiyor. 
+
