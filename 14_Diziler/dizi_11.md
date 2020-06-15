@@ -1,4 +1,4 @@
-İçinde en az bir tane negatif tamsayı olan bir tam sayı dizisi var. Bu dizinin tüm ardışık alt dizileri içinde en büyük kümülatif toplam değerini bulmamız gerekiyor:
+İçinde en az bir tane negatif tamsayı olan bir tam sayı dizisi var. Bu dizinin tüm ardışık alt dizileri içinde en büyük kümülatif toplam değerini (maximum subsequence) bulmamız gerekiyor:
 
 Örneğin
 
@@ -18,7 +18,7 @@ ve hesaplanacak toplam değeri :
 8
 ```
 
-Aşağıda tanımlanan a dizisinin en büyük al dizi toplamını hesaplayan bir C programı yazınız:
+Aşağıda tanımlanan a dizisinin en büyük alt dizi toplamını hesaplayan bir C programı yazınız:
 
 ```
 #define			SIZE		100
