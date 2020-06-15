@@ -32,6 +32,5 @@ int main()
 		printf("%3d ", a[i]);
 	}
 	///kod
-
 }
 ```
