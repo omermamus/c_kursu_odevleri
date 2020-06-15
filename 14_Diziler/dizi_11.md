@@ -2,15 +2,21 @@
 
 Örneğin
 
+```
 3  4 -8  1  7 -2
+```
 
 dizisinde en büyük toplam değerini veren alt dizi 
 
+```
 1 7
+```
 
 ve hesaplanacak toplam değeri : 
 
+```
 8
+```
 
 Aşağıda tanımlanan a dizisinin en büyük al dizi toplamını hesaplayan bir C programı yazınız:
 
@@ -31,3 +37,6 @@ int a[SIZE] = {
 	};
 }
 ```
+
+* Kodda ikinci bir dizi kullanmayacaksınız.
+* Oluşturduğuz algoritma O(n) karmaşıklığında olmalı
