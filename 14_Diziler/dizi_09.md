@@ -20,7 +20,7 @@ int main()
 }
 ```
 
-Bu dizinin elemanlarının değerlerini kullanarak bir histogram oluşturacak C programını yazmanız isteniyor. 
+Bu dizinin elemanlarının değerlerini kullanarak bir histogram oluşturacak C programını yazmanız isteniyor. Örnek bir ekran çıktısı aşağıdaki gibi olmalı:<br>
 
 ![image](https://github.com/necatiergin/c_kursu_odevleri/blob/master/resimler/histogram.JPG)
 
