@@ -22,3 +22,5 @@ int main()
 
 Bu dizinin elemanlarının değerlerini kullanarak bir histogram oluşturacak C programını yazmanız isteniyor. 
 
+![image](https://github.com/necatiergin/c_kursu_odevleri/blob/master/resimler/histogram.JPG)
+
