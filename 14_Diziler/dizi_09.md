@@ -1,4 +1,4 @@
-Aşağıdaki kodda SIZE tane öğeye sahip bir tamsayı dizisine rastgele değerler veriliyor:
+Aşağıdaki kodda __SIZE__ tane öğeye sahip bir tamsayı dizisine rastgele değerler veriliyor:
 
 ```
 #include <stdio.h>
@@ -20,5 +20,5 @@ int main()
 }
 ```
 
-Bu dizinin elemanlarının değerlerini kullanarak bir histogram oluşturacak C programını yazmanız isteiyor. 
+Bu dizinin elemanlarının değerlerini kullanarak bir histogram oluşturacak C programını yazmanız isteniyor. 
 
