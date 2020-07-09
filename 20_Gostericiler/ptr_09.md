@@ -22,3 +22,5 @@ int main()
 }
 
 ```
+
+[ödevin cevabı](https://vimeo.com/369813044)
