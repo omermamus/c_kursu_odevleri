@@ -21,3 +21,5 @@ int main()
 		printf("%d", a[i]);
 }
 ```
+
+[odevin cevabı](https://vimeo.com/440710505)
