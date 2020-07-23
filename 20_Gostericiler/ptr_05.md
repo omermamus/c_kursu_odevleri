@@ -13,3 +13,5 @@ int main()
 	printf("%d\n", 3["coders"] - 2["coders"]);
 }
 ```
+
+[ödevin cevabı](https://vimeo.com/440986201)
