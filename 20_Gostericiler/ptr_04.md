@@ -39,3 +39,5 @@ Bu durumda tanımladığınız fonksiyon çalıştırıldığında ekrana şu de
 `19 15 2 11 9`
 
 Kodunuzda ikinci bir dizi tanımlanmamalı.
+
+[ödevin cevabı](https://vimeo.com/440984113)
