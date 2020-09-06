@@ -18,5 +18,5 @@
 + _c_'nin rakam ya da harf karakteri olup olmadığını sınayan ifade
 + _c_'nin _hex_ karakter olup olmadığını sınayan ifade
 
-[Ödevin cevabı)[https://vimeo.com/455271631]
+[Ödevin cevabı](https://vimeo.com/455271631)
 
