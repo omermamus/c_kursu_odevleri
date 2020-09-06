@@ -2,6 +2,8 @@ _[low high]_ aralık belirten işaretli tam sayı değişkenler ve yine _x_ bir 
 
 + x < low ise low
 + x > high ise high
-+ x >= && x <= high ise x
++ x >= low && x <= high ise x
 
 Koşul operatörünü kullanarak değeri bu anlama gelen bir ifade yazınız.
+
+[ödevin cevabı)[https://vimeo.com/455273758]
