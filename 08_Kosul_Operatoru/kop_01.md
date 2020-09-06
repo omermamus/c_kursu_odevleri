@@ -9,8 +9,6 @@ int main()
 	int ival = (num > 5 ? num <= 10 ? 10 : 20 : 50);
  
 	printf("%d\n", ival);
- 
-	return 0;
 }
 ```
 
