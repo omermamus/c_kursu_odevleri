@@ -6,4 +6,4 @@ _[low high]_ aralık belirten işaretli tam sayı değişkenler ve yine _x_ bir 
 
 Koşul operatörünü kullanarak değeri bu anlama gelen bir ifade yazınız.
 
-[ödevin cevabı)[https://vimeo.com/455273758]
+(ödevin cevabı)[https://vimeo.com/455273758]
