@@ -17,3 +17,5 @@ int main()
 	printf("%u\n", n);
 }
 ```
+
+[Ödevin cevabı](https://vimeo.com/455396518)
