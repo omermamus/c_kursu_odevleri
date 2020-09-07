@@ -18,3 +18,5 @@ __Sorunun yanıtı şu seçeneklerden biri de olabilir:__</br>
 + Sentaks hatası (derleme zamanı hatası)
 + Tanımsız davranış. _(undefined behavior)_
 + Derleyiciye göre değişir. _(unspecified behavior / implementation defined)_
+
+[Ödevin Cevabı](https://vimeo.com/455404188)
