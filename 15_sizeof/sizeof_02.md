@@ -18,3 +18,5 @@ int main()
 + Sentaks hatası (derleme zamanı hatası)
 + Tanımsız davranış. _(undefined behavior)_
 + Derleyiciye göre değişir. _(unspecified behavior / implementation defined)_
+
+[ödevin cevabı](https://vimeo.com/455399790)
